@@ -4,19 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ScratchPad
+namespace ScratchPadCSharp
 {
-    //public class Node
-    //{
-    //    public int value;
-    //    public Node left = null;
-    //    public Node right = null;
-    //    public Node(int v)
-    //    {
-    //        value = v;
-    //    }
-    //}
-
     class Tree
     {
         private const int SCREEN_WIDTH = 64;
